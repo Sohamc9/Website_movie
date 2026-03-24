@@ -29,7 +29,7 @@ if genre == ":rainbow[Comedy]":
     col1.button("❤️ Like", key="mask_like")
     
     col2.subheader("The Hangover")
-    col2.image("artifacts/images2/The Hangover.jpg")
+    col2.image("artifacts/images2/The hangover.jpg")
     col2.write("📅 Release Date: 2009")
     col2.write("🎬 Director: Todd Phillips")
     col2.write("⭐ Rating: 7.7/10")
