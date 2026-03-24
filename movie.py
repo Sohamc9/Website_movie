@@ -83,7 +83,7 @@ elif genre == "Sci-fi :movie_camera:":
 if st.button("Rent Movie"):
     if movies_to_rent != "None":
         st.session_state.selected_movie = movies_to_rent
-        st.switch_page("pages/subscription.py")
+        st.switch_page("pages/Subscription.py")
     else:
         st.warning("Please select a movie to rent.")
 

@@ -12,4 +12,4 @@ plan = st.radio("Choose a plan",
 
 if st.button("Proceed to Payment"):
     st.session_state.selected_plan = plan
-    st.switch_page("pages/payment.py")
+    st.switch_page("pages/Payment.py")
