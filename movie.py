@@ -62,7 +62,7 @@ elif genre == "Sci-fi :movie_camera:":
     col1, col2 = st.columns(2)
     
     col1.subheader("Interstellar")
-    col1.image("artifacts/images2/interstellar.jpg")
+    col1.image("artifacts/images2/Interstellar.jpg")
     col1.write("📅 Release Date: 2014")
     col1.write("🎬 Director: Christopher Nolan")
     col1.write("⭐ Rating: 8.6/10")
